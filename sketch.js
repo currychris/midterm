@@ -18,7 +18,7 @@ function setup() {
 }
 // draw  everything for the thingy
 function draw() {
-  background(0,120,0);
+  background(255,120,0);
  drawgoal();
   drawplayer();
 }
